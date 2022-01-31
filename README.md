@@ -1,2 +1,2 @@
 # Data-ANZ-Virtual-Internship-Tasks
-This project contains the codings I used to gain results for the given two tasks under Data@ANZ Virtual Internship.
+This repository consists of the R codes which I implemented to obtain the results of the given two tasks under the Data@ANZ Virtual Internship.
